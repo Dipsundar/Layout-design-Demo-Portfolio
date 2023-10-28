@@ -1,0 +1,52 @@
+/*! mobile css  */
+
+/*? font families  */
+/*?-1 font-family: 'Fira Sans', sans-serif; */
+/*?-1 font-family: 'Montserrat', sans-serif; */
+/*?-1 font-family: 'Roboto', sans-serif; */
+/*?-1 font-family: 'Satisfy', cursive; */
+
+/* mobile column defined  */
+[class*="col-"] {
+  width: 100%;
+}
+
+/*! navbar design starts here  */
+
+/* nav menu  */
+.nav-menu {
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+}
+
+/* nav menu link  */
+.nav-menu a {
+  background-color: #0c6168;
+  border-radius: 10px;
+  margin: 7px 0px;
+  padding: 10px;
+}
+
+/*! navbar desgn ends here  */
+
+/*! banner profile design starts here  */
+
+.banner-profile {
+  padding: 2px 10px;
+  text-align: center;
+  height: 950px;
+}
+
+.banner-profile .top-banner-icon,
+.banner-profile .bottom-banner-icon {
+  height: 200px;
+}
+
+/*! banner profile design ends here  */
+
+/*! about section design starts here  */
+.about-profile-img img {
+  width: 250px;
+}
+/*! about section design ends here  */

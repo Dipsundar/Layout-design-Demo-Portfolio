@@ -1,0 +1,160 @@
+/*! desktop css  */
+
+/*? font families  */
+/*?-1 font-family: 'Fira Sans', sans-serif; */
+/*?-1 font-family: 'Montserrat', sans-serif; */
+/*?-1 font-family: 'Roboto', sans-serif; */
+/*?-1 font-family: 'Satisfy', cursive; */
+
+/* for desktop column sizes starts  */
+.col-1 {
+  width: 8.33%;
+}
+.col-2 {
+  width: 16.66%;
+}
+.col-3 {
+  width: 25%;
+}
+.col-4 {
+  width: 33.33%;
+}
+.col-5 {
+  width: 41.66%;
+}
+.col-6 {
+  width: 50%;
+}
+.col-7 {
+  width: 58.33%;
+}
+.col-8 {
+  width: 66.66%;
+}
+.col-9 {
+  width: 75%;
+}
+.col-10 {
+  width: 83.33%;
+}
+.col-11 {
+  width: 91.66%;
+}
+.col-12 {
+  width: 100%;
+}
+/* for desktop column sizes ends  */
+
+/*! navbar design starts here  */
+
+/* nav logo  */
+.nav-logo {
+  text-align: left;
+}
+
+/* nav heading  */
+.nav-heading h1 {
+  text-align: right;
+}
+
+/* nav menu  */
+.nav-menu {
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+/* nav menu link  */
+.nav-menu a {
+  padding: 5px 10px;
+  background-color: transparent;
+  margin: 20px 0px;
+}
+
+/*! navbar design ends here  */
+
+/*! banner profile design starts here  */
+
+.banner-profile {
+  position: relative;
+  height: 650px;
+}
+
+.banner-profile-desc h1 {
+  margin-top: 80px;
+}
+
+.banner-profile .top-banner-icon,
+.banner-profile .bottom-banner-icon {
+  position: absolute;
+  height: 300px;
+}
+
+.banner-profile .top-banner-icon {
+  top: 0px;
+  right: 30px;
+}
+
+.banner-profile .bottom-banner-icon {
+  top: 320px;
+  left: 30px;
+}
+
+.banner-profile-desc p {
+  color: rgb(186, 127, 127);
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+}
+
+/*! banner profile design ends here  */
+
+/*! about section design starts here  */
+
+.about-profile-img img {
+  width: 400px;
+  margin-top: 10px;
+}
+
+/*! about section design ends here  */
+
+/*! contact section start here  */
+
+.achievement {
+  padding-right: 50px;
+}
+
+.contact-me button {
+  width: 150px;
+}
+
+.contact-me-links {
+  position: relative;
+}
+
+.social-media-button {
+  position: absolute;
+  margin-top: 200px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/*! contact section ends here  */
+
+/*! footer starts here  */
+
+.footer-menu {
+  margin-top: 12px;
+}
+
+.footer-menu a {
+  display: inline;
+  margin: 10px;
+}
+
+.footer-desc {
+  padding-top: 22px;
+  color: grey;
+}
+
+/*! footer ends here  */
