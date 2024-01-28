@@ -9,4 +9,4 @@
 - Html
 - Css
 
-### [Click here to see the project demo](https://dipsundar.github.io/html-css-portfolio-demo/#about-$)
+### [Click here to see the project demo](https://dipsundar.github.io/Layout-design-Demo-Portfolio/)
